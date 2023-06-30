@@ -1,6 +1,9 @@
-TOKEN = "1444339635:AAEWaQQmfy-Guk47iioxwIDiT7lbL5h5z-I"
-exchanges = {
-    'доллар': 'USD',
-    'евро': 'EUR',
-    'рубль': 'RUB'
+TOKEN = '6298472912:AAGNNhmLHnCrXI07BZ_rsOyEmpsH-afuiiU'
+keys = {
+    "биткоин": "BTC",
+    "доллар": "USD",
+    "эфириум": "ETH",
+    "евро": "EUR",
+    "рубль":"RUB"
 }
+
